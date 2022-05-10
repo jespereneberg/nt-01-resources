@@ -31,7 +31,8 @@ To be uploaded
 
 ### Hybrid connectivity (Slidez: 16-19)
 * Hybric connectivity Whitepaper: https://d1.awsstatic.com/whitepapers/hybrid-connectivity-aws.pdf
-* Amazon VPC Connectivity Options: https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/aws-direct-connect-vpn.html
+* Amazon VPC Connectivity Options Whitepaper: https://docs.aws.amazon.com/whitepapers/latest/aws-vpc-connectivity-options/aws-direct-connect-vpn.html
+* Selecting & Designing Your Hybrid Connectivity Model Whitepaper: https://aws.amazon.com/blogs/architecture/new-whitepaper-selecting-designing-your-hybrid-connectivity-model/
 
 ### Client VPN (Slide: 16)
 * Client vpn features: https://docs.aws.amazon.com/vpn/latest/clientvpn-admin/what-is.html
@@ -57,6 +58,16 @@ To be uploaded
 * Unspported VPC Peering scenarios: https://docs.aws.amazon.com/vpc/latest/peering/what-is-vpc-peering.html 
 
 ### Transit Gateway (Slides: 34-51)
+* Running multicast-enabled containers on AWS: https://aws.amazon.com/blogs/networking-and-content-delivery/running-multicast-enabled-containers-on-aws/
+* Design your firewall deployment for Internet ingress traffic flows: https://aws.amazon.com/blogs/networking-and-content-delivery/design-your-firewall-deployment-for-internet-ingress-traffic-flows/
+* Automate Networking foundation in multi-account environments: https://aws.amazon.com/blogs/networking-and-content-delivery/automate-networking-foundation-in-multi-account-environments/
+* Integrate SD-WAN devices with AWS Transit Gateway and AWS Direct Connect: https://aws.amazon.com/blogs/networking-and-content-delivery/integrate-sd-wan-devices-with-aws-transit-gateway-and-aws-direct-connect/
+* Introduction to Network Transformation on AWS – Part 1: https://aws.amazon.com/blogs/networking-and-content-delivery/introduction-to-network-transformation-on-aws-part-1/
+* Introduction to Network Transformation on AWS – Part 2: https://aws.amazon.com/blogs/networking-and-content-delivery/introduction-to-network-transformation-on-aws-part-2/
+* Centralized inspection architecture with AWS Gateway Load Balancer and AWS Transit Gateway: https://aws.amazon.com/blogs/networking-and-content-delivery/centralized-inspection-architecture-with-aws-gateway-load-balancer-and-aws-transit-gateway/
+* Simplify SD-WAN connectivity with AWS Transit Gateway Connect: https://aws.amazon.com/blogs/networking-and-content-delivery/simplify-sd-wan-connectivity-with-aws-transit-gateway-connect/
+* Improve VPN Network Performance of AWS Hybrid Cloud with Global Accelerator: https://aws.amazon.com/blogs/architecture/improve-vpn-network-performance-of-aws-hybrid-cloud-with-global-accelerator/
+* Working with Route Tables in AWS Transit Gateway: https://aws.amazon.com/blogs/architecture/field-notes-working-with-route-tables-in-aws-transit-gateway/
 
 
 
