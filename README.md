@@ -3,7 +3,7 @@ Sources, extra material and other resources for the session: NT-01 at AWS Stockh
 
 
 ## Presentation
-To be uploaded
+https://d1.awsstatic.com/aws-summit-stockholm-session-slides/nt-01-build-strong-network-foundations-on-aws.pdf
 
 ## Presentation resources
 
